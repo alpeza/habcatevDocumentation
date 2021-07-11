@@ -3,9 +3,9 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to HabCatEvDocumentation's documentation!
+HabCat Ev Arch 
 =================================================
-Holi
+Framework de desarrollo HabCatEv Arch
 
 .. toctree::
    :maxdepth: 2
