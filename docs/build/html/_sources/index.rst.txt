@@ -1,7 +1,8 @@
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 4
 
    all-about-me
    hola/hola
    hola/adios
+
