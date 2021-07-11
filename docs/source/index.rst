@@ -15,5 +15,3 @@ Quickstart
 
    page2
 
-
-* :ref:`genindex`
