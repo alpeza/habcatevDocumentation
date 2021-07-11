@@ -2,15 +2,10 @@ HabCat EV Arch
 =================================================
 Framework de desarrollo HabCatEv Arch
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+Quickstart
+-----------------------------
 
+.. code-block:: html
+   :linenos:
 
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   <h1>code block example</h1>
