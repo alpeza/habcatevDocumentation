@@ -5,6 +5,7 @@
 
 Welcome to HabCatEvDocumentation's documentation!
 =================================================
+Holi
 
 .. toctree::
    :maxdepth: 2
