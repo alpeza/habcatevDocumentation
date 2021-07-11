@@ -3,10 +3,20 @@ Habcat Event Framework
 
 Documentación del *framework* de habcat orientado a eventos.
 
-Quick Start
+Get Start
 ************
 
 + 1.- Instalamos el framework en una *Raspberry Pi*
+
++ 2.- 
+
+Contenido
+************
+
+- Instalación del framework
+- Desarrollo
+   + Teoría
+   + Desarrollo de componentes
 
 
 .. toctree::
