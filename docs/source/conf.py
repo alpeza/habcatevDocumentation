@@ -16,6 +16,7 @@
 
 
 # -- Project information -----------------------------------------------------
+import sphinx_book_theme
 
 project = 'HabCatEvDocumentation'
 copyright = '2021, Alpeza'
@@ -28,7 +29,7 @@ author = 'Alpeza'
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
-   
+    'sphinx_book_theme'
 ]
 
 # Add any paths that contain templates here, relative to this directory.
