@@ -29,14 +29,25 @@ mediante los siguientes comandos:
    ./install.sh
 
 
-Una vez realizada la instalación la *Rpi* se reiniciará. Validamos que 
-la instalación se ha realizado correctamente escribiendo lo siguientes
-desde un terminal ssh:
+Una vez realizada la instalación la *Rpi* se reiniciará. Nos volvemos
+a conectar vía ssh y actualizamos el framework con los últimos 
+componentes.
 
 .. code-block:: console
 
-   habcat
+   habcat update --uall
 
+Listamos los componentes de los que disponemos
+
+.. code-block:: console
+
+   habcat components
+
+Listamos los dispositivos de los que disponemos
+
+.. code-block:: console
+
+   habcat devices
 
 
 .. toctree::
