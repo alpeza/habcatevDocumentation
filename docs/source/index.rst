@@ -4,3 +4,4 @@
 
    all-about-me
    hola/hola
+   hola/adios
