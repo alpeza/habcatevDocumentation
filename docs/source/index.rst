@@ -10,8 +10,9 @@ Quickstart
 
    <h1>code block example</h1>
 
+
 .. toctree::
    :maxdepth: 2
+   :caption: Contents:
 
-   page2
-
+   index
