@@ -19,7 +19,8 @@ Para emplear el framework siga los siguientes pasos.
 Instalación del framework
 *************************
 
-Descargamos e instalamos el framework en una *Raspberry pi*
+Nos conectamos vía *ssh* a la *Raspberry pi* y descargamos e instalamos el framework
+mediante los siguientes comandos:
 
 .. code-block:: console
 
@@ -27,6 +28,14 @@ Descargamos e instalamos el framework en una *Raspberry pi*
    chmod +x install.sh
    ./install.sh
 
+
+Una vez realizada la instalación la *Rpi* se reiniciará. Validamos que 
+la instalación se ha realizado correctamente escribiendo lo siguientes
+desde un terminal ssh:
+
+.. code-block:: console
+
+   habcat
 
 
 
