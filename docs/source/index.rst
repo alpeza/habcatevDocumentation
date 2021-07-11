@@ -16,3 +16,4 @@ Quickstart
    :caption: Contents:
 
    index
+   page2.rst
