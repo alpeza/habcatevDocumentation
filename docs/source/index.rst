@@ -9,3 +9,10 @@ Quickstart
    :linenos:
 
    <h1>code block example</h1>
+
+.. toctree::
+
+    first
+    second
+
+* :ref:`genindex`
