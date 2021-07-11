@@ -3,20 +3,31 @@ Habcat Event Framework
 
 Documentación del *framework* de habcat orientado a eventos.
 
-Get Start
-************
-
-+ 1.- Instalamos el framework en una *Raspberry Pi*
-
-+ 2.- 
 
 Contenido
-************
+*********
+
+Para emplear el framework siga los siguientes pasos.
 
 - Instalación del framework
 - Desarrollo
    + Teoría
+   + Entorno de desarrollo
    + Desarrollo de componentes
+
+
+Instalación del framework
+*************************
+
+Descargamos e instalamos el framework en una *Raspberry pi*
+
+.. code-block:: console
+
+   wget https://raw.githubusercontent.com/alpeza/habcatpi/main/install.sh
+   chmod +x install.sh
+   ./install.sh
+
+
 
 
 .. toctree::
