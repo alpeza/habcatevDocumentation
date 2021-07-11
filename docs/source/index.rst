@@ -12,7 +12,5 @@ Quickstart
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
 
-   index
    all-about-me
