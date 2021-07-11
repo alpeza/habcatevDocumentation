@@ -45,24 +45,4 @@ Listamos los componentes de los que disponemos
 
 Listamos los dispositivos de los que disponemos
 
-.. code-block:: console
-
-   habcat devices
-
-
-.. toctree::
-   :maxdepth: 4
-
-   all-about-me
-   hola/index
-
-.. toctree::
-   :caption: Instalación del framework
-
-   all-about-me
-
-.. toctree::
-   :caption: Framework Python
-
-   all-about-me
 
