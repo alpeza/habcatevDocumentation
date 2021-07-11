@@ -18,7 +18,7 @@
 # -- Project information -----------------------------------------------------
 import sphinx_book_theme
 
-project = 'HabCatEvDocumentation'
+project = 'Habcatev'
 copyright = '2021, Alpeza'
 author = 'Alpeza'
 
