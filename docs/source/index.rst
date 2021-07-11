@@ -11,8 +11,9 @@ Quickstart
    <h1>code block example</h1>
 
 .. toctree::
+   :maxdepth: 2
 
-    first
-    second
+   page2
+
 
 * :ref:`genindex`
